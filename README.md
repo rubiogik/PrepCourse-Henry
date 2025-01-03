@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-prueba mod2
+Prueba de como crear un repositorio desde git hub y clonarlo al escritorio local
